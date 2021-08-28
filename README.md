@@ -18,4 +18,3 @@ through the ATM.
 
 
 
-This project represents how a ATM service can work without any need of credit/debit card. This project was created in C language. It uses graphics in c, Structures and many more concepts of C language.
